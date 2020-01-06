@@ -13,6 +13,15 @@ I won't keep notes about all the topics, just things that I remembered to write 
 
 ### Topics
 
+#### DRY - The evils of duplication
+
+DRY is about duplication of knowledge, of intent, **not** coincidentally have the same lines of code.
+
+I remember reading a good article about this difference:
+[Stop trying to be so DRY, instead Write Everything Twice (WET)](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
+
+It's important to think about the intent before you write a reusable piece of code, because you might get yourself stuck into a certain pattern.
+
 #### Tracer bullets vs Prototypes
 
 Tracer bullets are a sort of coding 'attempts' at making a product work as expected.
