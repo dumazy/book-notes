@@ -4,6 +4,7 @@
 
 - Authors: David Thomas, Andrew Hunt
 - ISBN: 978-0-13-595705-9
+- link: https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition
 
 ## Notes
 
