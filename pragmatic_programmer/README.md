@@ -43,6 +43,7 @@ If you say something will take 125 days, people expect you to be quite accurate 
 When you say 6 months, they won't have the same expectations in accurracy.
 
 The book suggests the following scales:
+
 | Duration | Quote estimate in |
 | --- | --- |
 | 1 - 15 days | Days |
