@@ -32,3 +32,42 @@ It's important to be very clear about this.
 Although a prototype might look as a nearly completed product, it is very dangerous to use it as production code.
 Always make sure the clients (or managers) are aware that this is throw-away code.
 
+#### Estimating
+
+Keep track of your estimates.
+They can (and will) change during the project.
+Altering them early will give a clearer view on how long the project will take.
+
+Use correct time scale to define your estimates.
+If you say something will take 125 days, people expect you to be quite accurate on it.
+When you say 6 months, they won't have the same expectations in accurracy.
+
+The book suggests the following scales:
+| Duration | Quote estimate in |
+| --- | --- |
+| 1 - 15 days | Days |
+| 3 - 6 weeks | Weeks |
+| 8 - 20 weeks | Months |
+| 20+ weeks | Think hard before giving an estimate |
+
+
+##### PERT 
+
+The book suggests to use the PERT methodology (Program Evaluation Review Technique).
+This was mentioned in *The Clean Coder* by Robert C. Martin.
+
+This technique requires you to make estimates for
+- Optimistic case
+- Most likely case
+- Pessimistic case
+
+Then they have a formula to calculate the estimated time of this: `(o + 4m + p) ÷ 6`.
+I should try this technique in my next estimates.
+
+##### I'll get back to you
+
+Be careful giving "coffee machine estimates".
+Make sure you know what is expected and let it sink in before giving an estimate.
+
+
+
